@@ -3,7 +3,7 @@
 
 🌟 **About Me**  
 - 🌍 Passionate about decentralized technologies, Bitcoin, and open-source development.  
-- 💻 Currently contributing to a decentralized gig platform for developers and tech sister kenya web app.  
+- 💻 Currently contributing to a decentralized gig platform for freelancers and tech sister kenya web app.  
 - 🎓 Participating in a Bitcoin bootcamp to deepen my knowledge and contribute to Bitcoin open source.  
 
 ---
