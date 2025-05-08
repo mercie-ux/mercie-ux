@@ -1,14 +1,14 @@
 
 # Hi there, I’m Mercy 👋
 
-🌟 **About Me**  
+ **About Me**  
 - 🌍 Passionate about decentralized technologies, Bitcoin, and open-source development.  
 - 💻 Currently contributing to a decentralized gig platform for freelancers and tech sister kenya web app.  
 - 🎓 Participating in a Bitcoin bootcamp to deepen my knowledge and contribute to Bitcoin open source.  
 
 ---
 
-## 🔧 Top Skills & Tech Stack
+##  Top Skills & Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 
 <p>
   <a href="mailto:njerimercy77@gmail.com">
