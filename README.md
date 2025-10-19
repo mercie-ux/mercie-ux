@@ -1,5 +1,6 @@
 
-# Hi there, I’m Mercy 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&lines=Hello+👋;I'm+Mercy+a+software+developer)](https://git.io/typing-svg)
+
 
  **About Me**  
 - 🌍 Passionate about decentralized technologies, Bitcoin, and open-source development.  
