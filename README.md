@@ -6,7 +6,13 @@
 - 🌍 Passionate about decentralized technologies, Bitcoin, and open-source development.
 - 🧑‍🏫 Peer Lead Mentor for cohort 3 Bitcoin Dada devs.
 - 💻 Currently contributing to tech sister kenya web app.  
-- 🎓 Participating in a Bitcoin bootcamp to deepen my knowledge and contribute to Bitcoin open source.  
+- 🎓 Participating in a Bitcoin bootcamp to deepen my knowledge and contribute to Bitcoin open source.
+
+**Interests**
+---
+ 
+  Reading , Going for walks, fashioncraft, hair braiding
+
 
 ---
 
