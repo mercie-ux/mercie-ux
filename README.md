@@ -3,8 +3,9 @@
 
 
  **About Me**  
-- 🌍 Passionate about decentralized technologies, Bitcoin, and open-source development.  
-- 💻 Currently contributing to a decentralized gig platform for freelancers and tech sister kenya web app.  
+- 🌍 Passionate about decentralized technologies, Bitcoin, and open-source development.
+- 🧑‍🏫 Peer Lead Mentor for cohort 3 Bitcoin Dada devs.
+- 💻 Currently contributing to tech sister kenya web app.  
 - 🎓 Participating in a Bitcoin bootcamp to deepen my knowledge and contribute to Bitcoin open source.  
 
 ---
