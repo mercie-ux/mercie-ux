@@ -25,13 +25,16 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white">
+
 </p>
 
 ---
 
 ## 📊 GitHub Stats
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mercie-ux&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mercie-ux&layout=compact&theme=radical)
+
 
 ---
 
